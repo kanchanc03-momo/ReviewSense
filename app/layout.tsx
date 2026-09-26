@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Sentilytics — Product Review Sentiment',
-  description: 'Product review sentiment classification powered by Spark MLlib.',
+  title: 'ReviewSense — Product Review Sentiment',
+  description: 'Honest product reviews, analyzed with ReviewSense.',
 };
 
 export default function RootLayout({

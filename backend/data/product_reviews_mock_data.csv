@@ -1,0 +1,1001 @@
+ReviewID,ProductID,UserID,Rating,ReviewText,ReviewDate
+REV2000,Product_E,User_114,4,fantastic. wonderful experience.,2023-04-17
+REV2001,Product_C,User_186,2,broke easily. awful.,2023-11-27
+REV2002,Product_E,User_101,3,met expectations. five stars.,2023-12-10
+REV2003,Product_A,User_175,5,very satisfied. wonderful experience.,2023-11-10
+REV2004,Product_C,User_158,1,worst purchase. one star.,2024-05-25
+REV2005,Product_D,User_154,3,some pros and cons. works perfectly.,2023-09-01
+REV2006,Product_A,User_138,5,highly recommend. amazing features.,2023-10-01
+REV2007,Product_B,User_108,2,waste of money. poor quality.,2023-12-12
+REV2008,Product_D,User_107,4,love this product. highly recommend. nothing special.,2023-02-04
+REV2009,Product_B,User_103,2,poor quality. worst purchase.,2024-04-21
+REV2010,Product_D,User_113,2,awful. customer service was bad. some pros and cons.,2023-09-28
+REV2011,Product_E,User_181,5,fantastic. best purchase ever.,2023-02-22
+REV2012,Product_D,User_140,4,wonderful experience. love this product. some pros and cons.,2023-06-06
+REV2013,Product_D,User_107,1,broke easily. does not work.,2024-04-16
+REV2014,Product_C,User_132,3,decent for the price. worst purchase.,2024-01-14
+REV2015,Product_D,User_106,1,awful. one star.,2023-07-20
+REV2016,Product_C,User_143,5,exceeded expectations. works perfectly.,2024-12-26
+REV2017,Product_C,User_100,5,best purchase ever. easy to use.,2023-01-05
+REV2018,Product_A,User_178,3,works as expected. easy to use.,2023-01-15
+REV2019,Product_D,User_195,1,difficult to use. difficult to use.,2024-04-29
+REV2020,Product_E,User_135,3,neither good nor bad. very satisfied.,2024-06-08
+REV2021,Product_B,User_141,4,amazing features. great value.,2024-07-10
+REV2022,Product_D,User_143,4,exceeded expectations. best purchase ever. some pros and cons.,2023-12-06
+REV2023,Product_A,User_126,1,would not recommend. bad experience.,2024-09-24
+REV2024,Product_A,User_161,3,it's okay. five stars.,2024-11-07
+REV2025,Product_A,User_151,3,it's okay. five stars.,2023-04-23
+REV2026,Product_C,User_155,2,broke easily. terrible product.,2023-03-22
+REV2027,Product_E,User_195,4,love this product. works perfectly.,2023-08-13
+REV2028,Product_D,User_189,5,very satisfied. easy to use.,2024-11-02
+REV2029,Product_C,User_116,3,could be better. excellent quality.,2023-10-21
+REV2030,Product_A,User_172,3,met expectations. does not work.,2023-05-04
+REV2031,Product_D,User_158,4,best purchase ever. works perfectly.,2024-02-07
+REV2032,Product_D,User_132,4,easy to use. excellent quality.,2024-10-01
+REV2033,Product_D,User_156,3,average product. customer service was bad.,2024-04-17
+REV2034,Product_C,User_106,2,worst purchase. missing features.,2023-05-24
+REV2035,Product_B,User_100,1,customer service was bad. one star.,2023-10-31
+REV2036,Product_A,User_198,3,works as expected. very disappointed.,2024-10-20
+REV2037,Product_D,User_174,1,awful. would not recommend.,2024-09-16
+REV2038,Product_C,User_188,4,amazing features. wonderful experience. average product.,2023-04-09
+REV2039,Product_C,User_179,2,would not recommend. terrible product. decent for the price.,2024-11-11
+REV2040,Product_C,User_116,4,love this product. five stars.,2024-10-01
+REV2041,Product_C,User_153,5,exceeded expectations. excellent quality.,2023-10-10
+REV2042,Product_D,User_163,1,waste of money. one star.,2024-04-25
+REV2043,Product_D,User_134,3,it's okay. five stars.,2023-07-11
+REV2044,Product_E,User_145,4,very satisfied. works perfectly.,2024-01-08
+REV2045,Product_E,User_145,5,works perfectly. five stars.,2023-06-30
+REV2046,Product_E,User_131,5,works perfectly. excellent quality.,2023-06-10
+REV2047,Product_C,User_145,2,very disappointed. difficult to use. average product.,2024-09-17
+REV2048,Product_A,User_132,2,broke easily. very disappointed.,2024-01-28
+REV2049,Product_B,User_125,5,wonderful experience. five stars.,2024-02-12
+REV2050,Product_D,User_144,1,terrible product. awful.,2023-01-20
+REV2051,Product_C,User_186,4,five stars. excellent quality. neither good nor bad.,2023-05-23
+REV2052,Product_A,User_157,3,met expectations. very disappointed.,2024-07-28
+REV2053,Product_D,User_141,1,broke easily. one star.,2023-02-23
+REV2054,Product_D,User_104,5,highly recommend. very satisfied. nothing special.,2023-04-13
+REV2055,Product_D,User_115,3,average product. customer service was bad.,2023-09-26
+REV2056,Product_A,User_162,3,neither good nor bad. best purchase ever.,2024-08-26
+REV2057,Product_A,User_111,5,best purchase ever. best purchase ever. average product.,2024-10-02
+REV2058,Product_E,User_100,1,bad experience. difficult to use.,2023-09-29
+REV2059,Product_E,User_166,5,best purchase ever. works perfectly.,2023-03-17
+REV2060,Product_E,User_177,1,waste of money. terrible product.,2023-08-08
+REV2061,Product_E,User_175,4,best purchase ever. great value.,2023-08-06
+REV2062,Product_E,User_122,1,very disappointed. waste of money.,2024-06-05
+REV2063,Product_B,User_118,4,love this product. fantastic.,2024-03-17
+REV2064,Product_B,User_191,4,exceeded expectations. highly recommend.,2023-06-09
+REV2065,Product_C,User_132,2,broke easily. waste of money.,2024-11-21
+REV2066,Product_A,User_139,1,one star. bad experience. average product.,2023-02-12
+REV2067,Product_C,User_134,5,love this product. best purchase ever.,2024-12-27
+REV2068,Product_B,User_189,2,does not work. missing features.,2024-02-22
+REV2069,Product_E,User_174,2,awful. would not recommend.,2024-02-17
+REV2070,Product_A,User_135,5,great value. amazing features.,2024-01-29
+REV2071,Product_A,User_198,3,average product. fantastic.,2024-07-01
+REV2072,Product_D,User_154,5,easy to use. amazing features. it's okay.,2024-06-08
+REV2073,Product_D,User_188,1,bad experience. broke easily. nothing special.,2023-12-08
+REV2074,Product_E,User_118,4,amazing features. easy to use.,2023-03-17
+REV2075,Product_C,User_115,4,works perfectly. five stars.,2023-03-10
+REV2076,Product_E,User_199,3,neither good nor bad. difficult to use.,2024-07-18
+REV2077,Product_E,User_141,5,easy to use. best purchase ever.,2023-07-05
+REV2078,Product_C,User_174,5,five stars. amazing features.,2024-10-19
+REV2079,Product_A,User_106,4,wonderful experience. fantastic. average product.,2023-06-23
+REV2080,Product_B,User_165,3,decent for the price. fantastic.,2024-05-31
+REV2081,Product_A,User_185,5,love this product. easy to use.,2024-05-14
+REV2082,Product_D,User_169,4,works perfectly. wonderful experience.,2023-09-09
+REV2083,Product_B,User_189,3,neither good nor bad. wonderful experience.,2024-06-14
+REV2084,Product_B,User_191,5,best purchase ever. highly recommend. some pros and cons.,2024-09-29
+REV2085,Product_C,User_176,1,customer service was bad. missing features.,2023-12-14
+REV2086,Product_A,User_155,1,very disappointed. worst purchase. decent for the price.,2023-04-27
+REV2087,Product_C,User_135,5,works perfectly. highly recommend. some pros and cons.,2023-08-15
+REV2088,Product_A,User_153,1,difficult to use. missing features.,2023-09-16
+REV2089,Product_D,User_123,2,waste of money. awful. nothing special.,2024-10-29
+REV2090,Product_B,User_159,2,one star. one star.,2023-06-27
+REV2091,Product_C,User_162,4,amazing features. love this product.,2023-05-25
+REV2092,Product_D,User_128,5,works perfectly. wonderful experience.,2024-07-11
+REV2093,Product_E,User_146,3,could be better. broke easily.,2024-03-25
+REV2094,Product_E,User_132,5,love this product. excellent quality.,2024-01-09
+REV2095,Product_C,User_184,1,missing features. very disappointed.,2023-10-09
+REV2096,Product_E,User_132,1,missing features. does not work. decent for the price.,2024-09-01
+REV2097,Product_A,User_168,4,very satisfied. works perfectly.,2024-10-06
+REV2098,Product_E,User_136,5,best purchase ever. works perfectly. some pros and cons.,2024-12-14
+REV2099,Product_C,User_144,1,would not recommend. customer service was bad.,2024-12-17
+REV2100,Product_D,User_194,2,difficult to use. worst purchase.,2023-03-13
+REV2101,Product_C,User_149,3,it's okay. waste of money.,2023-09-25
+REV2102,Product_A,User_116,3,neither good nor bad. waste of money.,2024-09-15
+REV2103,Product_C,User_150,2,very disappointed. one star.,2023-04-13
+REV2104,Product_B,User_181,2,broke easily. does not work.,2023-12-01
+REV2105,Product_A,User_137,4,fantastic. five stars. works as expected.,2024-04-25
+REV2106,Product_E,User_128,1,awful. terrible product.,2023-05-18
+REV2107,Product_D,User_187,4,excellent quality. very satisfied.,2023-03-10
+REV2108,Product_C,User_142,5,amazing features. easy to use. met expectations.,2023-04-21
+REV2109,Product_D,User_155,4,works perfectly. works perfectly.,2023-10-08
+REV2110,Product_E,User_150,2,waste of money. waste of money.,2024-02-07
+REV2111,Product_E,User_121,2,very disappointed. terrible product.,2024-02-09
+REV2112,Product_B,User_145,4,love this product. best purchase ever.,2024-06-29
+REV2113,Product_B,User_146,1,very disappointed. awful.,2023-05-01
+REV2114,Product_A,User_125,5,fantastic. love this product.,2023-09-14
+REV2115,Product_B,User_127,4,fantastic. excellent quality.,2023-03-19
+REV2116,Product_C,User_106,3,neither good nor bad. one star.,2023-01-03
+REV2117,Product_B,User_137,5,amazing features. easy to use.,2023-01-15
+REV2118,Product_A,User_116,2,very disappointed. worst purchase.,2023-08-19
+REV2119,Product_A,User_112,1,missing features. would not recommend.,2023-07-31
+REV2120,Product_E,User_117,1,would not recommend. very disappointed.,2023-04-21
+REV2121,Product_D,User_182,1,missing features. waste of money.,2024-07-07
+REV2122,Product_B,User_158,2,bad experience. very disappointed.,2023-11-11
+REV2123,Product_E,User_121,1,very disappointed. very disappointed. nothing special.,2023-10-04
+REV2124,Product_A,User_102,3,could be better. awful.,2023-08-31
+REV2125,Product_D,User_191,2,would not recommend. very disappointed.,2023-03-16
+REV2126,Product_A,User_165,3,could be better. wonderful experience.,2024-12-15
+REV2127,Product_E,User_169,4,very satisfied. highly recommend.,2024-02-14
+REV2128,Product_D,User_111,1,terrible product. worst purchase.,2024-07-12
+REV2129,Product_C,User_199,5,love this product. very satisfied.,2023-09-16
+REV2130,Product_E,User_122,2,one star. poor quality.,2024-10-11
+REV2131,Product_D,User_164,2,waste of money. missing features.,2023-11-15
+REV2132,Product_C,User_193,3,it's okay. one star.,2023-04-05
+REV2133,Product_B,User_177,4,exceeded expectations. amazing features. works as expected.,2024-01-11
+REV2134,Product_A,User_139,3,met expectations. wonderful experience.,2023-11-16
+REV2135,Product_A,User_113,3,decent for the price. works perfectly.,2023-10-18
+REV2136,Product_B,User_161,3,some pros and cons. missing features.,2023-05-12
+REV2137,Product_C,User_137,2,terrible product. missing features.,2023-01-23
+REV2138,Product_E,User_150,2,does not work. very disappointed.,2023-02-08
+REV2139,Product_B,User_163,3,it's okay. difficult to use.,2024-05-14
+REV2140,Product_D,User_128,3,some pros and cons. great value.,2024-07-03
+REV2141,Product_A,User_167,3,average product. broke easily.,2024-08-20
+REV2142,Product_A,User_137,2,would not recommend. bad experience. could be better.,2023-06-08
+REV2143,Product_E,User_128,5,highly recommend. five stars.,2023-02-16
+REV2144,Product_C,User_135,3,decent for the price. customer service was bad.,2023-10-19
+REV2145,Product_B,User_145,2,one star. worst purchase.,2023-12-29
+REV2146,Product_A,User_196,2,awful. one star.,2024-09-14
+REV2147,Product_D,User_167,4,fantastic. great value.,2023-05-13
+REV2148,Product_A,User_191,2,missing features. very disappointed. could be better.,2024-01-13
+REV2149,Product_C,User_122,1,waste of money. worst purchase.,2024-09-04
+REV2150,Product_A,User_162,1,does not work. awful.,2024-07-20
+REV2151,Product_E,User_108,1,would not recommend. missing features. some pros and cons.,2023-07-21
+REV2152,Product_D,User_124,3,met expectations. excellent quality.,2024-08-24
+REV2153,Product_B,User_190,3,works as expected. amazing features.,2024-06-12
+REV2154,Product_E,User_187,4,love this product. wonderful experience.,2023-06-10
+REV2155,Product_D,User_184,2,difficult to use. terrible product.,2023-02-18
+REV2156,Product_D,User_185,1,bad experience. awful.,2024-04-20
+REV2157,Product_E,User_193,1,does not work. broke easily.,2023-08-03
+REV2158,Product_A,User_144,5,fantastic. works perfectly. works as expected.,2024-04-21
+REV2159,Product_B,User_191,2,poor quality. customer service was bad.,2023-04-23
+REV2160,Product_A,User_107,4,easy to use. works perfectly.,2023-02-24
+REV2161,Product_C,User_133,2,terrible product. difficult to use.,2024-01-15
+REV2162,Product_E,User_107,2,difficult to use. does not work. could be better.,2023-11-09
+REV2163,Product_E,User_166,1,terrible product. one star. average product.,2023-02-20
+REV2164,Product_C,User_115,3,nothing special. waste of money.,2024-03-27
+REV2165,Product_B,User_106,2,difficult to use. waste of money. works as expected.,2024-11-03
+REV2166,Product_E,User_159,4,excellent quality. love this product.,2023-03-23
+REV2167,Product_C,User_101,4,easy to use. easy to use. decent for the price.,2024-12-07
+REV2168,Product_A,User_197,5,five stars. works perfectly.,2023-02-22
+REV2169,Product_A,User_173,4,fantastic. exceeded expectations.,2023-06-07
+REV2170,Product_B,User_180,1,missing features. awful.,2024-06-09
+REV2171,Product_A,User_121,1,customer service was bad. would not recommend. average product.,2023-08-23
+REV2172,Product_C,User_169,5,great value. best purchase ever.,2023-05-26
+REV2173,Product_A,User_136,2,very disappointed. worst purchase.,2023-06-02
+REV2174,Product_B,User_185,5,amazing features. very satisfied.,2023-01-27
+REV2175,Product_D,User_152,2,worst purchase. bad experience.,2024-03-30
+REV2176,Product_D,User_161,5,excellent quality. five stars.,2024-09-25
+REV2177,Product_C,User_152,1,does not work. worst purchase. could be better.,2023-10-19
+REV2178,Product_D,User_158,3,met expectations. fantastic.,2023-08-15
+REV2179,Product_A,User_135,5,works perfectly. works perfectly.,2023-05-28
+REV2180,Product_C,User_197,1,worst purchase. poor quality. some pros and cons.,2023-07-20
+REV2181,Product_A,User_188,1,broke easily. awful.,2023-03-02
+REV2182,Product_C,User_143,3,met expectations. does not work.,2024-03-10
+REV2183,Product_D,User_158,5,best purchase ever. amazing features.,2023-01-17
+REV2184,Product_C,User_107,4,love this product. easy to use.,2024-10-22
+REV2185,Product_B,User_188,1,broke easily. worst purchase. neither good nor bad.,2023-09-25
+REV2186,Product_B,User_184,1,worst purchase. difficult to use. decent for the price.,2023-03-27
+REV2187,Product_C,User_147,1,broke easily. difficult to use.,2024-05-12
+REV2188,Product_C,User_117,4,best purchase ever. easy to use. could be better.,2024-03-18
+REV2189,Product_D,User_159,3,works as expected. awful.,2023-04-08
+REV2190,Product_D,User_138,2,awful. terrible product.,2024-06-10
+REV2191,Product_E,User_181,1,bad experience. worst purchase.,2023-06-10
+REV2192,Product_C,User_141,2,customer service was bad. broke easily.,2024-06-29
+REV2193,Product_B,User_131,5,works perfectly. exceeded expectations.,2024-08-30
+REV2194,Product_E,User_161,4,great value. five stars.,2024-04-21
+REV2195,Product_A,User_109,4,highly recommend. great value.,2023-12-25
+REV2196,Product_C,User_144,1,awful. customer service was bad.,2023-05-22
+REV2197,Product_E,User_124,2,terrible product. waste of money.,2024-03-07
+REV2198,Product_A,User_187,1,broke easily. worst purchase.,2023-05-20
+REV2199,Product_C,User_169,5,fantastic. exceeded expectations.,2024-03-15
+REV2200,Product_A,User_170,2,would not recommend. broke easily.,2024-07-17
+REV2201,Product_E,User_173,5,excellent quality. amazing features. it's okay.,2023-04-17
+REV2202,Product_C,User_105,2,waste of money. very disappointed.,2024-05-31
+REV2203,Product_A,User_198,1,worst purchase. terrible product. works as expected.,2023-01-20
+REV2204,Product_B,User_161,2,awful. does not work.,2023-05-25
+REV2205,Product_E,User_188,5,highly recommend. great value. some pros and cons.,2023-11-25
+REV2206,Product_C,User_191,3,some pros and cons. excellent quality.,2024-06-24
+REV2207,Product_B,User_108,4,fantastic. amazing features.,2024-04-07
+REV2208,Product_B,User_187,3,met expectations. great value.,2023-05-04
+REV2209,Product_B,User_169,2,one star. bad experience.,2023-02-06
+REV2210,Product_A,User_139,5,wonderful experience. works perfectly.,2023-10-28
+REV2211,Product_C,User_176,2,very disappointed. awful.,2023-10-16
+REV2212,Product_A,User_158,4,amazing features. wonderful experience.,2024-07-24
+REV2213,Product_E,User_141,1,broke easily. very disappointed. decent for the price.,2023-12-22
+REV2214,Product_E,User_157,3,neither good nor bad. exceeded expectations.,2023-01-31
+REV2215,Product_B,User_199,5,wonderful experience. wonderful experience. average product.,2023-09-15
+REV2216,Product_C,User_116,5,excellent quality. five stars. works as expected.,2023-12-26
+REV2217,Product_B,User_195,3,decent for the price. highly recommend.,2024-02-16
+REV2218,Product_D,User_167,4,love this product. five stars. met expectations.,2023-07-11
+REV2219,Product_B,User_181,1,customer service was bad. bad experience.,2023-11-02
+REV2220,Product_C,User_151,3,neither good nor bad. love this product.,2024-01-16
+REV2221,Product_C,User_157,3,average product. wonderful experience.,2024-06-21
+REV2222,Product_A,User_198,4,amazing features. easy to use.,2024-02-01
+REV2223,Product_E,User_174,5,highly recommend. very satisfied. works as expected.,2023-05-10
+REV2224,Product_D,User_155,1,bad experience. waste of money.,2024-08-26
+REV2225,Product_C,User_183,5,amazing features. great value.,2024-10-20
+REV2226,Product_B,User_137,1,poor quality. bad experience. it's okay.,2024-06-10
+REV2227,Product_D,User_117,1,one star. broke easily.,2023-09-28
+REV2228,Product_A,User_192,1,awful. broke easily.,2023-11-05
+REV2229,Product_C,User_192,4,fantastic. five stars.,2024-11-23
+REV2230,Product_A,User_193,4,easy to use. love this product.,2023-07-25
+REV2231,Product_D,User_108,4,amazing features. five stars. met expectations.,2024-11-08
+REV2232,Product_E,User_101,5,fantastic. exceeded expectations.,2023-12-10
+REV2233,Product_E,User_117,1,poor quality. customer service was bad.,2023-11-16
+REV2234,Product_E,User_188,3,some pros and cons. very satisfied.,2023-04-12
+REV2235,Product_A,User_116,3,some pros and cons. very disappointed.,2024-08-10
+REV2236,Product_D,User_132,4,fantastic. excellent quality.,2024-12-14
+REV2237,Product_A,User_132,2,would not recommend. worst purchase.,2024-08-11
+REV2238,Product_B,User_145,2,poor quality. poor quality. it's okay.,2023-05-02
+REV2239,Product_E,User_166,3,met expectations. missing features.,2024-09-26
+REV2240,Product_B,User_175,1,awful. poor quality.,2023-09-21
+REV2241,Product_C,User_106,4,highly recommend. highly recommend.,2024-04-03
+REV2242,Product_C,User_140,2,worst purchase. customer service was bad. met expectations.,2024-11-30
+REV2243,Product_D,User_112,4,wonderful experience. works perfectly. neither good nor bad.,2024-06-20
+REV2244,Product_E,User_107,4,great value. easy to use. average product.,2024-09-22
+REV2245,Product_C,User_121,2,awful. missing features.,2024-07-02
+REV2246,Product_B,User_134,4,wonderful experience. very satisfied. it's okay.,2024-03-20
+REV2247,Product_A,User_193,4,best purchase ever. wonderful experience.,2024-12-25
+REV2248,Product_D,User_191,5,highly recommend. five stars. it's okay.,2023-12-30
+REV2249,Product_A,User_135,3,decent for the price. highly recommend.,2023-09-07
+REV2250,Product_B,User_135,2,worst purchase. does not work.,2023-10-22
+REV2251,Product_D,User_102,5,excellent quality. fantastic.,2023-08-25
+REV2252,Product_C,User_125,1,would not recommend. customer service was bad. average product.,2024-06-03
+REV2253,Product_E,User_137,5,very satisfied. five stars.,2024-07-06
+REV2254,Product_D,User_101,1,broke easily. missing features.,2023-05-25
+REV2255,Product_C,User_104,2,awful. one star. neither good nor bad.,2024-03-24
+REV2256,Product_B,User_166,3,some pros and cons. highly recommend.,2024-09-21
+REV2257,Product_D,User_100,3,met expectations. amazing features.,2023-11-09
+REV2258,Product_E,User_146,3,decent for the price. awful.,2023-07-23
+REV2259,Product_D,User_178,4,exceeded expectations. wonderful experience. average product.,2024-09-11
+REV2260,Product_E,User_119,1,bad experience. terrible product. met expectations.,2023-10-09
+REV2261,Product_E,User_158,5,love this product. works perfectly. nothing special.,2023-06-10
+REV2262,Product_B,User_187,5,exceeded expectations. excellent quality.,2023-09-08
+REV2263,Product_A,User_138,5,fantastic. exceeded expectations.,2023-08-11
+REV2264,Product_D,User_122,4,wonderful experience. highly recommend.,2024-01-19
+REV2265,Product_D,User_107,2,terrible product. difficult to use.,2023-12-07
+REV2266,Product_B,User_164,5,easy to use. best purchase ever.,2023-11-07
+REV2267,Product_B,User_116,2,awful. awful.,2024-06-21
+REV2268,Product_A,User_145,3,works as expected. customer service was bad.,2023-01-01
+REV2269,Product_E,User_189,5,excellent quality. excellent quality.,2023-08-08
+REV2270,Product_A,User_140,1,bad experience. missing features. some pros and cons.,2023-03-30
+REV2271,Product_D,User_197,3,met expectations. very satisfied.,2024-01-16
+REV2272,Product_B,User_181,3,some pros and cons. wonderful experience.,2024-02-01
+REV2273,Product_A,User_187,3,some pros and cons. love this product.,2024-03-30
+REV2274,Product_B,User_170,4,great value. works perfectly.,2023-05-23
+REV2275,Product_A,User_148,1,does not work. one star. works as expected.,2024-05-11
+REV2276,Product_B,User_145,2,waste of money. worst purchase.,2023-01-03
+REV2277,Product_D,User_192,2,missing features. one star. decent for the price.,2023-06-03
+REV2278,Product_D,User_114,4,easy to use. very satisfied.,2023-02-12
+REV2279,Product_C,User_142,4,easy to use. exceeded expectations. decent for the price.,2023-01-21
+REV2280,Product_A,User_135,4,works perfectly. highly recommend.,2024-12-15
+REV2281,Product_B,User_177,3,nothing special. bad experience.,2024-01-08
+REV2282,Product_C,User_107,4,best purchase ever. highly recommend.,2023-05-24
+REV2283,Product_A,User_176,2,worst purchase. missing features.,2024-10-05
+REV2284,Product_B,User_138,4,easy to use. fantastic.,2023-06-08
+REV2285,Product_B,User_155,5,highly recommend. highly recommend. met expectations.,2023-02-05
+REV2286,Product_D,User_144,1,broke easily. bad experience.,2023-12-28
+REV2287,Product_D,User_108,5,amazing features. best purchase ever. some pros and cons.,2023-01-26
+REV2288,Product_B,User_171,5,love this product. best purchase ever. nothing special.,2023-06-01
+REV2289,Product_C,User_199,2,difficult to use. worst purchase.,2023-03-01
+REV2290,Product_D,User_173,3,average product. love this product.,2024-03-14
+REV2291,Product_D,User_197,3,neither good nor bad. very disappointed.,2024-11-03
+REV2292,Product_C,User_191,5,exceeded expectations. best purchase ever. some pros and cons.,2024-03-30
+REV2293,Product_B,User_163,1,waste of money. poor quality.,2023-09-20
+REV2294,Product_A,User_174,5,five stars. works perfectly.,2023-10-07
+REV2295,Product_E,User_135,2,would not recommend. does not work.,2023-12-19
+REV2296,Product_C,User_169,1,difficult to use. would not recommend.,2024-02-29
+REV2297,Product_B,User_159,4,five stars. exceeded expectations.,2024-05-31
+REV2298,Product_C,User_143,2,worst purchase. does not work. average product.,2024-01-16
+REV2299,Product_B,User_180,4,easy to use. highly recommend. nothing special.,2023-12-20
+REV2300,Product_E,User_192,5,amazing features. easy to use.,2023-10-14
+REV2301,Product_D,User_116,1,one star. awful.,2024-02-04
+REV2302,Product_D,User_104,5,five stars. love this product.,2023-09-05
+REV2303,Product_D,User_169,5,excellent quality. fantastic.,2024-02-10
+REV2304,Product_E,User_115,1,very disappointed. would not recommend.,2024-04-04
+REV2305,Product_A,User_122,4,wonderful experience. excellent quality.,2023-04-24
+REV2306,Product_C,User_172,2,broke easily. does not work.,2024-03-24
+REV2307,Product_D,User_181,2,very disappointed. does not work.,2023-11-07
+REV2308,Product_E,User_111,4,love this product. best purchase ever.,2023-08-27
+REV2309,Product_C,User_129,5,best purchase ever. very satisfied. neither good nor bad.,2023-08-04
+REV2310,Product_A,User_114,4,works perfectly. excellent quality. works as expected.,2024-02-09
+REV2311,Product_D,User_181,2,missing features. poor quality. met expectations.,2023-09-23
+REV2312,Product_D,User_194,1,very disappointed. customer service was bad. works as expected.,2023-04-20
+REV2313,Product_A,User_105,3,decent for the price. great value.,2023-01-25
+REV2314,Product_D,User_124,2,would not recommend. bad experience.,2023-03-20
+REV2315,Product_E,User_130,4,excellent quality. wonderful experience. met expectations.,2024-06-15
+REV2316,Product_C,User_101,5,easy to use. works perfectly.,2023-03-01
+REV2317,Product_C,User_133,5,excellent quality. exceeded expectations.,2023-12-11
+REV2318,Product_C,User_108,1,waste of money. missing features.,2023-04-09
+REV2319,Product_D,User_196,3,nothing special. terrible product.,2023-09-17
+REV2320,Product_D,User_151,5,highly recommend. highly recommend.,2023-08-09
+REV2321,Product_E,User_162,2,bad experience. does not work.,2024-07-27
+REV2322,Product_E,User_185,4,easy to use. excellent quality. decent for the price.,2024-10-06
+REV2323,Product_B,User_186,5,great value. love this product.,2024-02-27
+REV2324,Product_B,User_184,2,poor quality. waste of money.,2024-11-23
+REV2325,Product_A,User_198,4,five stars. exceeded expectations.,2024-05-11
+REV2326,Product_E,User_125,4,highly recommend. excellent quality.,2024-05-24
+REV2327,Product_B,User_198,4,wonderful experience. very satisfied.,2024-03-11
+REV2328,Product_E,User_163,2,awful. missing features.,2023-01-17
+REV2329,Product_D,User_147,2,terrible product. worst purchase.,2023-01-29
+REV2330,Product_E,User_127,4,easy to use. excellent quality.,2024-12-15
+REV2331,Product_A,User_159,1,does not work. waste of money.,2023-06-22
+REV2332,Product_E,User_107,1,missing features. difficult to use.,2023-07-19
+REV2333,Product_C,User_123,5,fantastic. love this product.,2024-04-27
+REV2334,Product_B,User_130,5,highly recommend. exceeded expectations.,2024-01-01
+REV2335,Product_C,User_127,3,decent for the price. very disappointed.,2024-07-16
+REV2336,Product_D,User_180,2,awful. awful.,2023-08-11
+REV2337,Product_B,User_166,2,would not recommend. customer service was bad. some pros and cons.,2024-07-14
+REV2338,Product_A,User_161,1,worst purchase. waste of money. could be better.,2024-01-05
+REV2339,Product_E,User_152,2,one star. poor quality. it's okay.,2023-06-09
+REV2340,Product_A,User_124,2,broke easily. customer service was bad.,2024-05-02
+REV2341,Product_B,User_121,1,would not recommend. waste of money.,2024-02-18
+REV2342,Product_A,User_120,3,neither good nor bad. one star.,2023-05-02
+REV2343,Product_B,User_120,1,customer service was bad. waste of money.,2024-02-01
+REV2344,Product_C,User_185,4,exceeded expectations. amazing features.,2024-10-23
+REV2345,Product_E,User_181,5,great value. highly recommend.,2024-06-24
+REV2346,Product_D,User_176,3,decent for the price. awful.,2023-10-05
+REV2347,Product_C,User_122,3,neither good nor bad. missing features.,2024-02-17
+REV2348,Product_B,User_157,5,fantastic. love this product.,2024-10-17
+REV2349,Product_A,User_103,3,works as expected. best purchase ever.,2023-04-14
+REV2350,Product_C,User_188,2,waste of money. customer service was bad.,2023-01-10
+REV2351,Product_B,User_140,3,some pros and cons. very disappointed.,2023-04-22
+REV2352,Product_B,User_157,2,one star. terrible product. some pros and cons.,2024-07-19
+REV2353,Product_E,User_119,2,does not work. difficult to use.,2024-08-09
+REV2354,Product_E,User_157,3,nothing special. awful.,2023-05-12
+REV2355,Product_B,User_136,3,met expectations. waste of money.,2024-04-13
+REV2356,Product_D,User_159,2,bad experience. would not recommend.,2023-02-26
+REV2357,Product_E,User_113,4,fantastic. great value.,2024-05-29
+REV2358,Product_D,User_123,4,excellent quality. works perfectly. works as expected.,2023-06-11
+REV2359,Product_C,User_121,1,bad experience. one star.,2024-10-25
+REV2360,Product_D,User_163,5,wonderful experience. highly recommend. it's okay.,2023-01-19
+REV2361,Product_B,User_162,1,terrible product. broke easily.,2024-09-19
+REV2362,Product_A,User_144,3,it's okay. would not recommend.,2023-06-10
+REV2363,Product_D,User_174,3,decent for the price. wonderful experience.,2023-05-17
+REV2364,Product_B,User_102,2,terrible product. customer service was bad.,2024-09-10
+REV2365,Product_A,User_150,5,works perfectly. best purchase ever.,2024-03-01
+REV2366,Product_E,User_183,5,great value. best purchase ever.,2023-02-18
+REV2367,Product_B,User_103,4,easy to use. easy to use.,2024-09-29
+REV2368,Product_A,User_199,1,customer service was bad. one star. some pros and cons.,2023-07-01
+REV2369,Product_A,User_135,4,fantastic. five stars. met expectations.,2024-12-25
+REV2370,Product_C,User_154,4,fantastic. best purchase ever. met expectations.,2023-08-08
+REV2371,Product_A,User_176,2,one star. missing features.,2024-08-04
+REV2372,Product_D,User_181,3,some pros and cons. excellent quality.,2023-09-07
+REV2373,Product_C,User_106,1,poor quality. awful.,2023-03-11
+REV2374,Product_B,User_125,5,fantastic. amazing features.,2024-05-06
+REV2375,Product_B,User_168,5,easy to use. best purchase ever. it's okay.,2023-05-11
+REV2376,Product_C,User_188,3,some pros and cons. love this product.,2024-01-19
+REV2377,Product_E,User_167,2,missing features. difficult to use.,2024-05-04
+REV2378,Product_A,User_123,1,bad experience. poor quality.,2024-07-26
+REV2379,Product_A,User_138,3,it's okay. very disappointed.,2024-08-20
+REV2380,Product_A,User_173,2,poor quality. very disappointed.,2024-05-31
+REV2381,Product_B,User_197,2,does not work. bad experience.,2023-05-24
+REV2382,Product_D,User_158,4,works perfectly. works perfectly.,2024-10-11
+REV2383,Product_D,User_125,5,highly recommend. highly recommend.,2024-01-18
+REV2384,Product_D,User_191,5,amazing features. fantastic.,2024-01-16
+REV2385,Product_A,User_162,2,missing features. awful.,2023-03-07
+REV2386,Product_A,User_141,4,very satisfied. easy to use.,2023-08-15
+REV2387,Product_C,User_149,1,does not work. waste of money.,2024-03-02
+REV2388,Product_B,User_107,4,five stars. amazing features.,2024-05-22
+REV2389,Product_A,User_146,5,fantastic. excellent quality. nothing special.,2023-08-26
+REV2390,Product_B,User_106,4,wonderful experience. works perfectly.,2024-01-22
+REV2391,Product_A,User_191,3,neither good nor bad. great value.,2023-05-09
+REV2392,Product_C,User_103,4,very satisfied. works perfectly.,2024-01-01
+REV2393,Product_C,User_145,4,love this product. wonderful experience.,2023-01-16
+REV2394,Product_E,User_133,5,five stars. very satisfied.,2023-09-17
+REV2395,Product_C,User_168,3,works as expected. missing features.,2024-06-20
+REV2396,Product_B,User_125,4,great value. works perfectly. some pros and cons.,2024-01-17
+REV2397,Product_B,User_105,4,five stars. five stars.,2023-07-30
+REV2398,Product_D,User_172,2,awful. poor quality.,2024-12-25
+REV2399,Product_D,User_129,4,five stars. fantastic. it's okay.,2023-10-04
+REV2400,Product_C,User_151,5,amazing features. works perfectly.,2024-06-29
+REV2401,Product_C,User_156,2,very disappointed. terrible product.,2023-10-06
+REV2402,Product_C,User_134,3,nothing special. poor quality.,2023-10-16
+REV2403,Product_C,User_139,2,one star. difficult to use. nothing special.,2023-09-05
+REV2404,Product_A,User_171,4,works perfectly. highly recommend.,2024-10-01
+REV2405,Product_C,User_156,5,great value. highly recommend.,2024-09-20
+REV2406,Product_A,User_138,4,works perfectly. five stars.,2024-01-28
+REV2407,Product_C,User_196,2,broke easily. broke easily.,2024-10-07
+REV2408,Product_B,User_145,3,nothing special. works perfectly.,2024-07-03
+REV2409,Product_C,User_183,3,could be better. worst purchase.,2023-10-08
+REV2410,Product_C,User_150,1,does not work. missing features.,2024-03-01
+REV2411,Product_A,User_118,5,fantastic. very satisfied. nothing special.,2024-02-02
+REV2412,Product_A,User_163,1,awful. would not recommend.,2024-11-03
+REV2413,Product_E,User_198,3,some pros and cons. highly recommend.,2023-11-30
+REV2414,Product_B,User_185,4,easy to use. wonderful experience.,2024-09-23
+REV2415,Product_C,User_110,4,excellent quality. great value.,2024-07-29
+REV2416,Product_D,User_166,5,love this product. great value. some pros and cons.,2024-11-14
+REV2417,Product_C,User_180,4,fantastic. love this product. neither good nor bad.,2024-04-26
+REV2418,Product_D,User_145,4,amazing features. works perfectly.,2024-07-12
+REV2419,Product_E,User_150,5,highly recommend. amazing features.,2024-07-03
+REV2420,Product_D,User_127,4,five stars. wonderful experience.,2024-02-10
+REV2421,Product_B,User_187,4,exceeded expectations. easy to use.,2023-06-11
+REV2422,Product_B,User_116,1,one star. very disappointed. could be better.,2024-07-26
+REV2423,Product_D,User_164,3,it's okay. customer service was bad.,2024-03-16
+REV2424,Product_E,User_183,3,met expectations. terrible product.,2024-11-19
+REV2425,Product_D,User_196,3,neither good nor bad. terrible product.,2024-08-24
+REV2426,Product_C,User_153,2,missing features. missing features.,2024-01-17
+REV2427,Product_A,User_116,1,difficult to use. difficult to use.,2024-07-24
+REV2428,Product_C,User_118,5,wonderful experience. love this product.,2023-11-29
+REV2429,Product_D,User_171,3,decent for the price. wonderful experience.,2024-03-31
+REV2430,Product_E,User_189,1,one star. worst purchase.,2023-04-13
+REV2431,Product_C,User_145,1,customer service was bad. bad experience.,2023-12-09
+REV2432,Product_D,User_181,1,poor quality. would not recommend.,2024-10-19
+REV2433,Product_B,User_118,4,fantastic. highly recommend.,2024-02-16
+REV2434,Product_B,User_114,4,easy to use. excellent quality.,2023-02-10
+REV2435,Product_B,User_165,1,customer service was bad. poor quality. some pros and cons.,2023-09-23
+REV2436,Product_D,User_102,1,very disappointed. broke easily.,2023-03-25
+REV2437,Product_C,User_115,5,fantastic. excellent quality. works as expected.,2023-12-16
+REV2438,Product_A,User_154,3,decent for the price. missing features.,2023-12-23
+REV2439,Product_D,User_120,1,broke easily. poor quality.,2024-03-13
+REV2440,Product_A,User_152,5,five stars. five stars.,2024-09-25
+REV2441,Product_C,User_127,3,some pros and cons. fantastic.,2023-06-21
+REV2442,Product_B,User_156,3,nothing special. fantastic.,2023-04-28
+REV2443,Product_D,User_136,2,would not recommend. waste of money.,2023-01-07
+REV2444,Product_D,User_118,1,worst purchase. one star.,2024-10-30
+REV2445,Product_C,User_194,3,it's okay. great value.,2024-04-19
+REV2446,Product_D,User_155,2,very disappointed. terrible product. it's okay.,2023-07-23
+REV2447,Product_B,User_168,5,fantastic. exceeded expectations.,2024-01-11
+REV2448,Product_D,User_125,5,very satisfied. exceeded expectations.,2023-06-04
+REV2449,Product_C,User_149,2,broke easily. bad experience.,2023-09-19
+REV2450,Product_E,User_136,2,one star. waste of money.,2023-06-19
+REV2451,Product_B,User_172,4,wonderful experience. wonderful experience.,2024-01-04
+REV2452,Product_A,User_195,4,highly recommend. great value. it's okay.,2023-10-05
+REV2453,Product_B,User_185,5,easy to use. works perfectly.,2024-01-14
+REV2454,Product_E,User_150,2,waste of money. customer service was bad.,2024-05-11
+REV2455,Product_D,User_110,5,highly recommend. works perfectly. could be better.,2023-12-25
+REV2456,Product_C,User_112,5,excellent quality. exceeded expectations. it's okay.,2023-04-21
+REV2457,Product_D,User_181,3,met expectations. worst purchase.,2023-04-14
+REV2458,Product_E,User_184,3,decent for the price. highly recommend.,2024-06-03
+REV2459,Product_C,User_197,3,met expectations. one star.,2023-09-24
+REV2460,Product_C,User_191,5,love this product. fantastic. met expectations.,2024-05-31
+REV2461,Product_C,User_118,1,one star. one star.,2024-10-27
+REV2462,Product_D,User_174,2,customer service was bad. awful.,2024-02-21
+REV2463,Product_C,User_163,3,average product. waste of money.,2024-05-13
+REV2464,Product_B,User_191,3,nothing special. does not work.,2024-11-17
+REV2465,Product_D,User_144,1,terrible product. terrible product.,2023-12-03
+REV2466,Product_C,User_158,3,neither good nor bad. very satisfied.,2023-01-13
+REV2467,Product_C,User_166,5,best purchase ever. best purchase ever.,2024-07-19
+REV2468,Product_D,User_165,5,fantastic. works perfectly. some pros and cons.,2024-11-11
+REV2469,Product_C,User_107,3,could be better. easy to use.,2023-04-23
+REV2470,Product_A,User_135,3,decent for the price. waste of money.,2023-01-25
+REV2471,Product_E,User_159,5,amazing features. love this product.,2023-05-08
+REV2472,Product_A,User_133,2,would not recommend. customer service was bad. works as expected.,2024-01-19
+REV2473,Product_D,User_176,3,average product. works perfectly.,2024-11-15
+REV2474,Product_B,User_139,3,neither good nor bad. one star.,2024-10-18
+REV2475,Product_B,User_165,4,wonderful experience. fantastic. average product.,2024-04-18
+REV2476,Product_C,User_192,3,decent for the price. terrible product.,2023-08-19
+REV2477,Product_E,User_112,1,does not work. waste of money.,2024-06-16
+REV2478,Product_A,User_154,1,customer service was bad. worst purchase.,2023-01-23
+REV2479,Product_D,User_131,4,excellent quality. five stars. decent for the price.,2023-01-14
+REV2480,Product_E,User_158,4,fantastic. excellent quality.,2024-04-15
+REV2481,Product_B,User_197,2,broke easily. missing features.,2024-09-30
+REV2482,Product_A,User_192,1,poor quality. very disappointed.,2023-06-03
+REV2483,Product_A,User_105,2,one star. missing features. some pros and cons.,2023-11-21
+REV2484,Product_C,User_118,1,broke easily. poor quality.,2023-05-17
+REV2485,Product_B,User_114,4,works perfectly. love this product.,2023-05-21
+REV2486,Product_C,User_136,4,best purchase ever. easy to use.,2024-02-05
+REV2487,Product_D,User_190,1,awful. difficult to use. neither good nor bad.,2024-12-29
+REV2488,Product_E,User_112,5,love this product. fantastic.,2023-04-11
+REV2489,Product_D,User_146,1,missing features. waste of money.,2024-08-28
+REV2490,Product_D,User_136,3,met expectations. one star.,2023-04-11
+REV2491,Product_C,User_146,1,poor quality. customer service was bad.,2024-05-10
+REV2492,Product_D,User_170,1,poor quality. waste of money.,2023-01-13
+REV2493,Product_A,User_172,2,broke easily. very disappointed.,2023-06-15
+REV2494,Product_D,User_186,1,bad experience. poor quality.,2023-06-22
+REV2495,Product_B,User_102,4,very satisfied. five stars. could be better.,2023-01-28
+REV2496,Product_D,User_120,1,broke easily. does not work.,2023-09-09
+REV2497,Product_B,User_152,1,waste of money. worst purchase. decent for the price.,2023-02-13
+REV2498,Product_A,User_199,2,worst purchase. does not work.,2024-02-02
+REV2499,Product_D,User_153,1,bad experience. broke easily.,2024-06-19
+REV2500,Product_D,User_189,2,terrible product. would not recommend.,2023-08-18
+REV2501,Product_D,User_157,1,waste of money. worst purchase.,2024-05-16
+REV2502,Product_B,User_136,1,difficult to use. waste of money.,2023-05-14
+REV2503,Product_D,User_156,2,one star. broke easily.,2024-09-29
+REV2504,Product_D,User_150,5,exceeded expectations. fantastic.,2024-04-01
+REV2505,Product_E,User_185,1,would not recommend. awful. some pros and cons.,2023-02-28
+REV2506,Product_B,User_197,5,wonderful experience. five stars.,2024-02-16
+REV2507,Product_D,User_189,2,missing features. difficult to use.,2023-04-14
+REV2508,Product_B,User_174,4,five stars. very satisfied.,2023-05-23
+REV2509,Product_B,User_170,3,some pros and cons. worst purchase.,2023-12-28
+REV2510,Product_E,User_182,3,decent for the price. would not recommend.,2023-09-24
+REV2511,Product_C,User_164,4,highly recommend. very satisfied. some pros and cons.,2023-02-18
+REV2512,Product_B,User_125,1,would not recommend. would not recommend. could be better.,2023-01-05
+REV2513,Product_B,User_137,1,bad experience. worst purchase.,2023-01-15
+REV2514,Product_B,User_177,5,wonderful experience. works perfectly. could be better.,2024-12-14
+REV2515,Product_E,User_132,4,exceeded expectations. wonderful experience.,2024-12-21
+REV2516,Product_D,User_169,4,highly recommend. works perfectly.,2024-11-11
+REV2517,Product_B,User_161,3,decent for the price. works perfectly.,2023-11-28
+REV2518,Product_B,User_105,2,one star. does not work.,2023-09-17
+REV2519,Product_B,User_116,5,exceeded expectations. great value.,2024-09-10
+REV2520,Product_E,User_107,2,would not recommend. customer service was bad.,2024-04-22
+REV2521,Product_C,User_183,1,poor quality. very disappointed.,2024-08-22
+REV2522,Product_A,User_136,4,highly recommend. great value.,2023-03-15
+REV2523,Product_B,User_142,4,best purchase ever. five stars. neither good nor bad.,2024-12-28
+REV2524,Product_E,User_126,3,works as expected. bad experience.,2023-12-15
+REV2525,Product_D,User_108,2,awful. difficult to use.,2024-03-13
+REV2526,Product_A,User_131,3,neither good nor bad. highly recommend.,2024-08-23
+REV2527,Product_E,User_193,4,works perfectly. love this product.,2024-11-05
+REV2528,Product_A,User_117,2,would not recommend. bad experience.,2024-11-15
+REV2529,Product_B,User_167,3,it's okay. wonderful experience.,2023-04-24
+REV2530,Product_D,User_186,4,exceeded expectations. exceeded expectations.,2023-09-23
+REV2531,Product_B,User_164,5,very satisfied. excellent quality.,2024-02-05
+REV2532,Product_E,User_167,1,broke easily. awful.,2024-12-09
+REV2533,Product_D,User_125,3,neither good nor bad. difficult to use.,2024-02-07
+REV2534,Product_E,User_120,2,would not recommend. difficult to use.,2024-04-06
+REV2535,Product_D,User_192,2,does not work. difficult to use. some pros and cons.,2024-07-06
+REV2536,Product_D,User_114,3,it's okay. fantastic.,2024-02-25
+REV2537,Product_E,User_135,3,could be better. does not work.,2024-06-19
+REV2538,Product_A,User_148,2,waste of money. awful. decent for the price.,2024-04-15
+REV2539,Product_A,User_156,5,amazing features. five stars.,2024-05-23
+REV2540,Product_A,User_109,5,easy to use. easy to use.,2024-11-10
+REV2541,Product_D,User_102,5,works perfectly. very satisfied.,2024-01-19
+REV2542,Product_D,User_137,4,highly recommend. amazing features.,2024-05-25
+REV2543,Product_B,User_129,2,waste of money. missing features. works as expected.,2024-12-02
+REV2544,Product_C,User_146,1,awful. very disappointed.,2024-07-04
+REV2545,Product_A,User_115,5,easy to use. best purchase ever.,2024-07-24
+REV2546,Product_B,User_108,3,met expectations. highly recommend.,2024-10-12
+REV2547,Product_A,User_120,4,love this product. love this product.,2023-04-12
+REV2548,Product_D,User_180,3,could be better. easy to use.,2024-05-03
+REV2549,Product_A,User_122,3,neither good nor bad. missing features.,2024-01-13
+REV2550,Product_B,User_140,1,missing features. bad experience. nothing special.,2024-04-21
+REV2551,Product_E,User_102,4,love this product. five stars.,2023-12-03
+REV2552,Product_A,User_180,5,highly recommend. highly recommend.,2024-04-18
+REV2553,Product_C,User_134,3,it's okay. bad experience.,2024-05-02
+REV2554,Product_C,User_128,4,works perfectly. great value.,2023-06-17
+REV2555,Product_E,User_163,3,works as expected. exceeded expectations.,2024-04-27
+REV2556,Product_B,User_188,3,nothing special. poor quality.,2024-10-21
+REV2557,Product_A,User_171,3,could be better. poor quality.,2024-06-02
+REV2558,Product_C,User_181,3,could be better. love this product.,2024-05-14
+REV2559,Product_E,User_174,4,five stars. love this product.,2023-10-10
+REV2560,Product_A,User_127,5,very satisfied. fantastic.,2023-03-10
+REV2561,Product_A,User_118,2,waste of money. broke easily. neither good nor bad.,2024-12-26
+REV2562,Product_A,User_112,4,very satisfied. easy to use.,2023-03-25
+REV2563,Product_E,User_119,3,could be better. best purchase ever.,2023-01-29
+REV2564,Product_A,User_107,1,customer service was bad. bad experience.,2023-08-06
+REV2565,Product_B,User_168,2,customer service was bad. missing features.,2024-02-16
+REV2566,Product_D,User_140,2,one star. difficult to use. average product.,2024-11-19
+REV2567,Product_C,User_179,1,one star. awful.,2024-05-28
+REV2568,Product_C,User_154,2,broke easily. bad experience.,2023-10-22
+REV2569,Product_C,User_140,4,five stars. works perfectly.,2023-05-28
+REV2570,Product_E,User_133,2,broke easily. worst purchase.,2023-05-14
+REV2571,Product_C,User_199,1,one star. poor quality.,2023-02-28
+REV2572,Product_C,User_125,1,waste of money. broke easily.,2023-09-23
+REV2573,Product_C,User_121,5,amazing features. wonderful experience.,2024-09-01
+REV2574,Product_E,User_167,1,terrible product. missing features.,2023-01-07
+REV2575,Product_B,User_135,1,bad experience. customer service was bad. met expectations.,2023-03-14
+REV2576,Product_B,User_126,1,poor quality. does not work.,2023-02-23
+REV2577,Product_A,User_127,5,highly recommend. wonderful experience.,2024-01-02
+REV2578,Product_B,User_118,3,it's okay. missing features.,2023-09-05
+REV2579,Product_B,User_183,2,awful. difficult to use. neither good nor bad.,2024-05-07
+REV2580,Product_A,User_168,4,excellent quality. fantastic.,2023-10-26
+REV2581,Product_C,User_161,2,terrible product. broke easily.,2023-11-10
+REV2582,Product_B,User_137,2,does not work. would not recommend.,2024-09-30
+REV2583,Product_C,User_173,5,fantastic. works perfectly.,2024-08-25
+REV2584,Product_A,User_105,1,missing features. difficult to use. it's okay.,2024-09-10
+REV2585,Product_A,User_181,5,exceeded expectations. great value.,2024-07-21
+REV2586,Product_C,User_159,2,would not recommend. poor quality.,2024-11-10
+REV2587,Product_D,User_117,5,very satisfied. exceeded expectations.,2023-03-04
+REV2588,Product_D,User_185,5,easy to use. wonderful experience.,2023-09-13
+REV2589,Product_D,User_178,4,easy to use. works perfectly.,2023-05-09
+REV2590,Product_A,User_100,2,very disappointed. waste of money. decent for the price.,2024-09-05
+REV2591,Product_B,User_191,1,poor quality. difficult to use.,2023-01-21
+REV2592,Product_C,User_134,4,love this product. highly recommend.,2023-03-10
+REV2593,Product_B,User_122,3,decent for the price. worst purchase.,2024-10-26
+REV2594,Product_A,User_154,4,easy to use. great value.,2024-06-27
+REV2595,Product_A,User_157,2,terrible product. waste of money.,2023-04-07
+REV2596,Product_E,User_134,3,met expectations. waste of money.,2023-02-08
+REV2597,Product_A,User_175,2,does not work. customer service was bad.,2024-04-15
+REV2598,Product_E,User_136,1,bad experience. customer service was bad.,2024-08-21
+REV2599,Product_A,User_184,5,great value. very satisfied.,2024-03-25
+REV2600,Product_A,User_131,1,customer service was bad. worst purchase.,2024-05-13
+REV2601,Product_C,User_135,4,amazing features. best purchase ever.,2024-11-04
+REV2602,Product_D,User_123,3,some pros and cons. love this product.,2024-08-06
+REV2603,Product_C,User_173,3,it's okay. excellent quality.,2023-06-24
+REV2604,Product_E,User_100,3,it's okay. wonderful experience.,2023-04-03
+REV2605,Product_B,User_116,5,wonderful experience. great value.,2023-03-12
+REV2606,Product_B,User_148,3,decent for the price. customer service was bad.,2023-04-13
+REV2607,Product_C,User_124,1,bad experience. does not work.,2023-09-08
+REV2608,Product_C,User_131,5,amazing features. very satisfied.,2024-01-15
+REV2609,Product_E,User_185,1,missing features. does not work. met expectations.,2023-12-02
+REV2610,Product_E,User_182,1,poor quality. missing features.,2024-10-20
+REV2611,Product_C,User_152,3,some pros and cons. does not work.,2024-06-25
+REV2612,Product_D,User_156,2,one star. would not recommend.,2023-10-19
+REV2613,Product_B,User_165,5,wonderful experience. very satisfied.,2023-11-29
+REV2614,Product_C,User_192,5,works perfectly. works perfectly.,2023-11-19
+REV2615,Product_D,User_159,3,average product. terrible product.,2023-05-02
+REV2616,Product_D,User_130,1,poor quality. bad experience. some pros and cons.,2023-05-04
+REV2617,Product_A,User_157,4,wonderful experience. easy to use.,2024-01-03
+REV2618,Product_A,User_198,4,works perfectly. five stars.,2024-04-29
+REV2619,Product_A,User_191,4,love this product. easy to use.,2024-03-17
+REV2620,Product_B,User_135,5,great value. great value.,2024-05-04
+REV2621,Product_D,User_141,2,bad experience. broke easily. could be better.,2024-03-20
+REV2622,Product_A,User_139,3,average product. five stars.,2023-08-25
+REV2623,Product_D,User_110,2,terrible product. worst purchase.,2023-07-26
+REV2624,Product_C,User_189,4,love this product. very satisfied.,2024-10-19
+REV2625,Product_C,User_193,3,it's okay. one star.,2023-03-02
+REV2626,Product_B,User_112,5,easy to use. great value.,2024-08-08
+REV2627,Product_D,User_183,4,love this product. five stars. decent for the price.,2023-07-23
+REV2628,Product_E,User_195,5,great value. five stars. average product.,2024-11-05
+REV2629,Product_C,User_128,1,awful. bad experience.,2024-03-30
+REV2630,Product_C,User_196,2,bad experience. very disappointed. nothing special.,2023-07-01
+REV2631,Product_C,User_160,4,wonderful experience. best purchase ever. works as expected.,2023-04-01
+REV2632,Product_E,User_134,5,exceeded expectations. great value.,2024-04-03
+REV2633,Product_D,User_147,3,works as expected. fantastic.,2024-05-15
+REV2634,Product_A,User_195,2,difficult to use. broke easily. works as expected.,2023-12-22
+REV2635,Product_E,User_109,5,amazing features. highly recommend.,2023-12-05
+REV2636,Product_C,User_165,3,some pros and cons. works perfectly.,2023-03-15
+REV2637,Product_B,User_154,3,decent for the price. waste of money.,2024-06-23
+REV2638,Product_E,User_111,3,nothing special. worst purchase.,2024-07-15
+REV2639,Product_A,User_113,4,exceeded expectations. wonderful experience.,2024-12-15
+REV2640,Product_C,User_120,2,difficult to use. missing features.,2024-10-06
+REV2641,Product_A,User_153,1,very disappointed. does not work.,2024-04-02
+REV2642,Product_A,User_114,4,five stars. very satisfied.,2024-09-07
+REV2643,Product_E,User_145,1,poor quality. would not recommend.,2024-10-15
+REV2644,Product_C,User_142,1,one star. awful.,2023-07-26
+REV2645,Product_D,User_155,3,average product. very disappointed.,2023-03-31
+REV2646,Product_D,User_153,2,broke easily. awful. met expectations.,2024-06-21
+REV2647,Product_E,User_139,4,highly recommend. highly recommend. neither good nor bad.,2024-12-21
+REV2648,Product_C,User_155,5,great value. easy to use. some pros and cons.,2023-06-04
+REV2649,Product_C,User_183,3,it's okay. difficult to use.,2023-08-22
+REV2650,Product_E,User_193,1,would not recommend. one star. neither good nor bad.,2024-01-01
+REV2651,Product_A,User_116,4,best purchase ever. wonderful experience. average product.,2023-03-05
+REV2652,Product_D,User_157,2,poor quality. very disappointed.,2023-10-03
+REV2653,Product_E,User_183,4,amazing features. fantastic. could be better.,2024-09-29
+REV2654,Product_E,User_193,3,neither good nor bad. highly recommend.,2024-07-21
+REV2655,Product_E,User_195,5,great value. best purchase ever.,2023-02-05
+REV2656,Product_B,User_130,2,broke easily. one star.,2024-01-10
+REV2657,Product_B,User_139,5,fantastic. works perfectly. neither good nor bad.,2023-05-08
+REV2658,Product_A,User_194,1,missing features. difficult to use. could be better.,2024-05-04
+REV2659,Product_A,User_121,2,poor quality. does not work.,2023-03-30
+REV2660,Product_B,User_114,1,difficult to use. bad experience.,2024-05-17
+REV2661,Product_D,User_189,1,bad experience. missing features.,2023-03-23
+REV2662,Product_C,User_159,4,amazing features. works perfectly.,2023-11-23
+REV2663,Product_C,User_188,4,fantastic. wonderful experience.,2023-08-12
+REV2664,Product_E,User_105,1,missing features. one star.,2024-08-11
+REV2665,Product_D,User_138,4,amazing features. wonderful experience.,2023-03-13
+REV2666,Product_E,User_193,4,five stars. works perfectly. average product.,2024-03-26
+REV2667,Product_A,User_105,5,works perfectly. best purchase ever.,2023-07-25
+REV2668,Product_D,User_148,3,decent for the price. amazing features.,2023-12-15
+REV2669,Product_E,User_183,1,very disappointed. would not recommend. average product.,2024-05-01
+REV2670,Product_D,User_176,1,very disappointed. would not recommend.,2023-12-03
+REV2671,Product_A,User_123,5,fantastic. excellent quality.,2023-02-27
+REV2672,Product_B,User_158,3,it's okay. bad experience.,2023-08-17
+REV2673,Product_B,User_116,2,difficult to use. bad experience.,2023-10-13
+REV2674,Product_B,User_112,5,great value. great value. it's okay.,2023-06-20
+REV2675,Product_D,User_114,3,nothing special. waste of money.,2023-07-20
+REV2676,Product_A,User_156,4,amazing features. very satisfied.,2023-11-04
+REV2677,Product_C,User_174,4,amazing features. five stars.,2023-04-08
+REV2678,Product_A,User_107,1,broke easily. customer service was bad.,2023-03-13
+REV2679,Product_B,User_161,3,neither good nor bad. love this product.,2023-05-19
+REV2680,Product_B,User_192,1,waste of money. awful.,2024-12-25
+REV2681,Product_E,User_163,2,very disappointed. awful.,2024-05-13
+REV2682,Product_C,User_110,3,works as expected. fantastic.,2023-05-29
+REV2683,Product_D,User_116,3,works as expected. five stars.,2023-01-06
+REV2684,Product_E,User_167,2,worst purchase. terrible product. nothing special.,2024-12-26
+REV2685,Product_A,User_199,2,one star. customer service was bad.,2023-09-04
+REV2686,Product_C,User_155,4,fantastic. love this product.,2023-07-29
+REV2687,Product_D,User_137,2,broke easily. missing features. could be better.,2024-05-06
+REV2688,Product_E,User_124,4,excellent quality. works perfectly. met expectations.,2024-05-25
+REV2689,Product_A,User_125,2,worst purchase. does not work.,2023-12-26
+REV2690,Product_C,User_157,5,love this product. works perfectly. decent for the price.,2023-10-10
+REV2691,Product_B,User_146,4,easy to use. excellent quality.,2023-06-11
+REV2692,Product_A,User_188,4,works perfectly. best purchase ever.,2024-07-31
+REV2693,Product_A,User_185,4,wonderful experience. love this product. nothing special.,2024-04-13
+REV2694,Product_E,User_187,1,terrible product. broke easily.,2023-03-11
+REV2695,Product_C,User_117,4,five stars. works perfectly.,2024-10-22
+REV2696,Product_B,User_109,3,nothing special. easy to use.,2023-12-11
+REV2697,Product_E,User_163,3,decent for the price. fantastic.,2023-01-05
+REV2698,Product_E,User_192,3,some pros and cons. poor quality.,2023-07-16
+REV2699,Product_D,User_150,1,broke easily. one star. neither good nor bad.,2023-01-30
+REV2700,Product_E,User_171,2,bad experience. very disappointed.,2024-03-20
+REV2701,Product_B,User_184,1,poor quality. difficult to use. some pros and cons.,2024-11-26
+REV2702,Product_A,User_154,4,fantastic. great value.,2023-10-05
+REV2703,Product_A,User_162,1,very disappointed. worst purchase.,2024-05-04
+REV2704,Product_C,User_179,1,customer service was bad. terrible product.,2023-01-08
+REV2705,Product_E,User_116,2,terrible product. customer service was bad.,2023-06-15
+REV2706,Product_E,User_114,3,it's okay. fantastic.,2024-05-23
+REV2707,Product_D,User_105,3,met expectations. easy to use.,2024-12-09
+REV2708,Product_B,User_125,1,worst purchase. would not recommend. average product.,2023-01-05
+REV2709,Product_D,User_116,2,customer service was bad. customer service was bad. neither good nor bad.,2023-09-06
+REV2710,Product_C,User_134,3,works as expected. highly recommend.,2023-12-03
+REV2711,Product_B,User_147,3,could be better. wonderful experience.,2023-02-13
+REV2712,Product_C,User_149,1,does not work. would not recommend.,2023-03-06
+REV2713,Product_E,User_178,2,one star. customer service was bad. average product.,2023-07-06
+REV2714,Product_C,User_130,3,neither good nor bad. fantastic.,2023-07-20
+REV2715,Product_C,User_156,4,very satisfied. excellent quality. decent for the price.,2024-04-02
+REV2716,Product_D,User_197,5,wonderful experience. easy to use.,2023-06-20
+REV2717,Product_E,User_103,2,difficult to use. very disappointed. average product.,2023-04-03
+REV2718,Product_A,User_173,2,very disappointed. awful. works as expected.,2023-07-31
+REV2719,Product_C,User_142,2,would not recommend. would not recommend. works as expected.,2024-02-05
+REV2720,Product_C,User_121,5,highly recommend. very satisfied.,2023-07-12
+REV2721,Product_E,User_102,3,neither good nor bad. excellent quality.,2024-01-28
+REV2722,Product_C,User_172,1,does not work. bad experience. nothing special.,2024-12-14
+REV2723,Product_D,User_197,1,awful. missing features.,2023-08-25
+REV2724,Product_A,User_157,2,difficult to use. missing features. works as expected.,2024-08-28
+REV2725,Product_B,User_109,4,exceeded expectations. exceeded expectations.,2023-04-09
+REV2726,Product_A,User_163,5,excellent quality. five stars. average product.,2024-07-29
+REV2727,Product_C,User_115,3,works as expected. great value.,2023-08-29
+REV2728,Product_B,User_115,3,some pros and cons. worst purchase.,2023-09-19
+REV2729,Product_D,User_176,4,best purchase ever. exceeded expectations.,2024-10-03
+REV2730,Product_D,User_112,4,love this product. wonderful experience.,2024-07-08
+REV2731,Product_E,User_107,4,highly recommend. five stars. decent for the price.,2023-03-31
+REV2732,Product_E,User_151,2,bad experience. waste of money.,2023-05-04
+REV2733,Product_D,User_118,4,best purchase ever. great value.,2024-04-05
+REV2734,Product_D,User_128,3,some pros and cons. highly recommend.,2024-10-21
+REV2735,Product_B,User_168,2,bad experience. does not work.,2023-01-30
+REV2736,Product_C,User_161,5,highly recommend. very satisfied.,2023-08-09
+REV2737,Product_A,User_118,4,very satisfied. highly recommend.,2024-07-03
+REV2738,Product_D,User_108,1,would not recommend. poor quality.,2023-10-15
+REV2739,Product_C,User_136,4,best purchase ever. highly recommend. average product.,2023-10-05
+REV2740,Product_B,User_108,5,easy to use. highly recommend.,2024-09-09
+REV2741,Product_A,User_184,3,works as expected. poor quality.,2023-07-08
+REV2742,Product_D,User_109,3,average product. love this product.,2023-05-10
+REV2743,Product_C,User_187,5,exceeded expectations. easy to use. neither good nor bad.,2023-05-09
+REV2744,Product_B,User_111,2,terrible product. terrible product.,2024-08-29
+REV2745,Product_D,User_152,1,difficult to use. poor quality.,2024-09-09
+REV2746,Product_D,User_118,4,exceeded expectations. fantastic. works as expected.,2024-02-14
+REV2747,Product_C,User_126,4,excellent quality. love this product.,2023-07-01
+REV2748,Product_D,User_137,4,wonderful experience. best purchase ever.,2023-04-06
+REV2749,Product_E,User_141,1,waste of money. very disappointed. met expectations.,2023-10-30
+REV2750,Product_D,User_126,1,poor quality. worst purchase.,2024-07-06
+REV2751,Product_A,User_175,4,best purchase ever. amazing features. nothing special.,2023-07-20
+REV2752,Product_B,User_164,4,five stars. highly recommend. average product.,2024-03-10
+REV2753,Product_B,User_128,1,one star. waste of money.,2024-06-10
+REV2754,Product_E,User_109,5,great value. excellent quality. average product.,2024-09-13
+REV2755,Product_D,User_121,2,would not recommend. bad experience. nothing special.,2024-03-29
+REV2756,Product_A,User_144,1,would not recommend. poor quality.,2023-06-13
+REV2757,Product_C,User_115,5,great value. highly recommend.,2024-11-29
+REV2758,Product_D,User_115,3,neither good nor bad. difficult to use.,2023-12-03
+REV2759,Product_A,User_140,4,five stars. excellent quality.,2023-11-06
+REV2760,Product_D,User_186,3,it's okay. works perfectly.,2024-09-07
+REV2761,Product_D,User_182,1,very disappointed. customer service was bad.,2023-04-20
+REV2762,Product_C,User_183,5,great value. amazing features.,2023-10-18
+REV2763,Product_B,User_144,1,broke easily. missing features.,2024-05-22
+REV2764,Product_D,User_143,1,broke easily. difficult to use.,2024-08-30
+REV2765,Product_E,User_153,3,works as expected. does not work.,2024-12-30
+REV2766,Product_B,User_152,1,terrible product. terrible product.,2023-04-21
+REV2767,Product_E,User_150,4,works perfectly. five stars. nothing special.,2024-11-03
+REV2768,Product_D,User_172,5,highly recommend. works perfectly.,2024-11-09
+REV2769,Product_E,User_142,3,some pros and cons. highly recommend.,2024-10-14
+REV2770,Product_E,User_185,5,works perfectly. fantastic. works as expected.,2023-02-12
+REV2771,Product_C,User_176,2,would not recommend. awful. neither good nor bad.,2023-05-17
+REV2772,Product_D,User_178,3,met expectations. does not work.,2024-03-14
+REV2773,Product_A,User_141,4,love this product. works perfectly.,2023-08-08
+REV2774,Product_D,User_146,3,neither good nor bad. bad experience.,2024-01-11
+REV2775,Product_A,User_111,4,very satisfied. five stars.,2024-10-27
+REV2776,Product_E,User_145,5,amazing features. wonderful experience.,2024-08-22
+REV2777,Product_D,User_103,1,terrible product. difficult to use.,2023-03-16
+REV2778,Product_D,User_153,3,neither good nor bad. exceeded expectations.,2023-08-03
+REV2779,Product_B,User_124,1,bad experience. does not work. works as expected.,2023-02-23
+REV2780,Product_A,User_166,4,highly recommend. wonderful experience.,2024-12-20
+REV2781,Product_C,User_146,1,very disappointed. would not recommend.,2023-06-30
+REV2782,Product_B,User_106,1,terrible product. poor quality. some pros and cons.,2023-10-05
+REV2783,Product_B,User_190,5,love this product. five stars.,2024-11-03
+REV2784,Product_D,User_116,2,broke easily. very disappointed. it's okay.,2024-10-05
+REV2785,Product_A,User_160,2,awful. bad experience. nothing special.,2023-10-18
+REV2786,Product_D,User_142,2,customer service was bad. missing features.,2023-10-10
+REV2787,Product_E,User_115,4,exceeded expectations. exceeded expectations.,2023-12-21
+REV2788,Product_A,User_138,5,best purchase ever. easy to use.,2023-10-31
+REV2789,Product_B,User_111,3,nothing special. waste of money.,2023-08-10
+REV2790,Product_A,User_157,5,best purchase ever. wonderful experience.,2024-08-21
+REV2791,Product_C,User_117,4,great value. amazing features.,2024-08-29
+REV2792,Product_E,User_111,2,customer service was bad. broke easily.,2024-09-21
+REV2793,Product_D,User_128,5,exceeded expectations. great value.,2023-06-10
+REV2794,Product_E,User_143,4,works perfectly. easy to use.,2023-10-01
+REV2795,Product_E,User_157,4,exceeded expectations. best purchase ever.,2023-12-30
+REV2796,Product_B,User_167,3,could be better. one star.,2023-04-08
+REV2797,Product_A,User_156,2,difficult to use. broke easily.,2023-03-26
+REV2798,Product_D,User_150,4,love this product. amazing features. met expectations.,2024-09-22
+REV2799,Product_E,User_141,5,exceeded expectations. best purchase ever.,2023-02-22
+REV2800,Product_E,User_102,2,worst purchase. one star. works as expected.,2023-12-05
+REV2801,Product_E,User_192,4,works perfectly. fantastic. nothing special.,2023-05-27
+REV2802,Product_C,User_184,4,wonderful experience. fantastic.,2024-03-26
+REV2803,Product_C,User_108,5,wonderful experience. great value. neither good nor bad.,2023-11-30
+REV2804,Product_A,User_121,2,terrible product. waste of money.,2024-02-12
+REV2805,Product_C,User_179,2,awful. awful.,2024-09-13
+REV2806,Product_D,User_188,2,one star. worst purchase.,2024-04-09
+REV2807,Product_D,User_122,1,very disappointed. waste of money.,2023-06-20
+REV2808,Product_E,User_142,2,broke easily. one star. works as expected.,2024-10-19
+REV2809,Product_A,User_195,3,it's okay. amazing features.,2024-04-12
+REV2810,Product_C,User_125,2,awful. difficult to use.,2024-06-01
+REV2811,Product_E,User_124,5,very satisfied. excellent quality.,2023-05-28
+REV2812,Product_B,User_144,2,one star. bad experience. some pros and cons.,2024-01-05
+REV2813,Product_C,User_134,3,met expectations. awful.,2023-11-05
+REV2814,Product_A,User_150,1,difficult to use. awful.,2024-12-26
+REV2815,Product_D,User_154,2,terrible product. does not work.,2024-11-29
+REV2816,Product_E,User_148,4,best purchase ever. works perfectly. works as expected.,2023-02-06
+REV2817,Product_D,User_153,5,five stars. works perfectly.,2024-10-23
+REV2818,Product_E,User_125,4,amazing features. amazing features. neither good nor bad.,2023-03-26
+REV2819,Product_C,User_122,3,average product. terrible product.,2023-12-18
+REV2820,Product_A,User_122,5,fantastic. works perfectly.,2024-04-10
+REV2821,Product_B,User_106,3,nothing special. broke easily.,2023-02-19
+REV2822,Product_E,User_156,1,worst purchase. awful.,2024-06-16
+REV2823,Product_A,User_186,5,great value. very satisfied.,2024-10-21
+REV2824,Product_D,User_140,1,worst purchase. poor quality.,2024-06-20
+REV2825,Product_A,User_137,3,average product. difficult to use.,2023-03-16
+REV2826,Product_C,User_196,5,works perfectly. excellent quality.,2024-10-25
+REV2827,Product_E,User_187,4,love this product. highly recommend. it's okay.,2023-02-04
+REV2828,Product_C,User_197,4,excellent quality. wonderful experience.,2023-12-11
+REV2829,Product_A,User_115,3,works as expected. best purchase ever.,2023-07-01
+REV2830,Product_A,User_133,3,average product. wonderful experience.,2024-03-14
+REV2831,Product_E,User_169,5,exceeded expectations. easy to use.,2023-02-17
+REV2832,Product_A,User_117,2,would not recommend. bad experience.,2024-08-22
+REV2833,Product_A,User_108,4,highly recommend. love this product. works as expected.,2023-06-03
+REV2834,Product_D,User_168,1,waste of money. would not recommend.,2023-09-04
+REV2835,Product_E,User_112,2,worst purchase. bad experience. could be better.,2024-09-12
+REV2836,Product_A,User_193,3,works as expected. worst purchase.,2023-04-27
+REV2837,Product_D,User_112,5,great value. best purchase ever.,2023-09-25
+REV2838,Product_D,User_170,1,very disappointed. awful.,2023-05-10
+REV2839,Product_E,User_177,5,great value. easy to use. average product.,2023-06-28
+REV2840,Product_D,User_154,4,wonderful experience. excellent quality.,2023-07-28
+REV2841,Product_D,User_169,2,worst purchase. does not work.,2024-12-07
+REV2842,Product_E,User_182,4,exceeded expectations. five stars. could be better.,2024-12-26
+REV2843,Product_D,User_114,1,one star. difficult to use.,2023-08-05
+REV2844,Product_C,User_199,1,customer service was bad. does not work.,2024-06-02
+REV2845,Product_B,User_191,3,nothing special. love this product.,2024-08-14
+REV2846,Product_E,User_106,5,best purchase ever. excellent quality. met expectations.,2023-06-04
+REV2847,Product_E,User_124,2,terrible product. customer service was bad.,2024-03-14
+REV2848,Product_C,User_197,2,does not work. broke easily.,2023-10-11
+REV2849,Product_B,User_147,3,met expectations. customer service was bad.,2023-01-21
+REV2850,Product_C,User_119,3,met expectations. missing features.,2023-04-22
+REV2851,Product_A,User_128,5,fantastic. fantastic.,2023-07-10
+REV2852,Product_C,User_102,3,could be better. terrible product.,2023-08-25
+REV2853,Product_D,User_186,3,decent for the price. would not recommend.,2024-07-06
+REV2854,Product_A,User_158,5,love this product. works perfectly.,2024-01-18
+REV2855,Product_D,User_146,3,works as expected. bad experience.,2024-03-21
+REV2856,Product_A,User_123,5,easy to use. excellent quality.,2024-09-19
+REV2857,Product_C,User_114,2,would not recommend. difficult to use. works as expected.,2024-07-15
+REV2858,Product_A,User_197,5,wonderful experience. highly recommend.,2024-05-02
+REV2859,Product_B,User_161,1,one star. customer service was bad.,2023-03-20
+REV2860,Product_B,User_170,2,difficult to use. bad experience.,2024-04-21
+REV2861,Product_B,User_180,3,some pros and cons. bad experience.,2023-12-23
+REV2862,Product_E,User_160,4,works perfectly. great value.,2023-01-22
+REV2863,Product_A,User_142,2,worst purchase. difficult to use.,2023-09-30
+REV2864,Product_B,User_193,5,love this product. easy to use.,2024-01-25
+REV2865,Product_D,User_163,5,works perfectly. amazing features.,2024-06-11
+REV2866,Product_E,User_141,1,poor quality. missing features.,2024-11-27
+REV2867,Product_E,User_137,2,customer service was bad. terrible product.,2023-09-08
+REV2868,Product_A,User_100,1,would not recommend. would not recommend. it's okay.,2023-08-04
+REV2869,Product_B,User_154,4,five stars. very satisfied. average product.,2023-08-16
+REV2870,Product_B,User_187,2,terrible product. bad experience. met expectations.,2023-02-25
+REV2871,Product_A,User_142,5,wonderful experience. best purchase ever.,2023-10-22
+REV2872,Product_C,User_129,2,does not work. difficult to use.,2024-12-08
+REV2873,Product_B,User_164,2,customer service was bad. terrible product.,2023-03-09
+REV2874,Product_E,User_120,3,some pros and cons. five stars.,2024-04-18
+REV2875,Product_C,User_155,2,very disappointed. would not recommend.,2024-11-21
+REV2876,Product_A,User_123,1,difficult to use. does not work.,2024-01-19
+REV2877,Product_D,User_198,1,customer service was bad. bad experience.,2024-07-27
+REV2878,Product_E,User_140,4,excellent quality. love this product.,2024-07-07
+REV2879,Product_B,User_116,2,customer service was bad. difficult to use. could be better.,2023-10-21
+REV2880,Product_C,User_156,3,works as expected. terrible product.,2024-04-26
+REV2881,Product_E,User_192,4,great value. love this product.,2024-12-10
+REV2882,Product_E,User_152,3,met expectations. five stars.,2024-06-11
+REV2883,Product_D,User_173,1,broke easily. terrible product.,2024-12-04
+REV2884,Product_E,User_170,4,excellent quality. wonderful experience.,2023-04-18
+REV2885,Product_B,User_109,3,it's okay. very disappointed.,2024-03-09
+REV2886,Product_D,User_100,1,waste of money. worst purchase. average product.,2024-03-13
+REV2887,Product_A,User_122,5,best purchase ever. wonderful experience.,2024-06-18
+REV2888,Product_C,User_125,4,highly recommend. wonderful experience.,2023-04-07
+REV2889,Product_A,User_168,3,neither good nor bad. difficult to use.,2023-05-10
+REV2890,Product_B,User_134,5,works perfectly. easy to use.,2023-03-20
+REV2891,Product_A,User_140,1,difficult to use. does not work.,2024-10-24
+REV2892,Product_C,User_106,2,terrible product. bad experience.,2024-09-08
+REV2893,Product_B,User_197,2,would not recommend. waste of money.,2024-10-31
+REV2894,Product_A,User_173,1,worst purchase. does not work.,2024-09-18
+REV2895,Product_C,User_127,1,customer service was bad. broke easily.,2024-12-21
+REV2896,Product_D,User_170,2,missing features. difficult to use.,2023-01-13
+REV2897,Product_A,User_174,2,missing features. waste of money.,2023-03-15
+REV2898,Product_A,User_144,5,fantastic. fantastic.,2023-12-10
+REV2899,Product_A,User_101,5,amazing features. five stars. some pros and cons.,2023-12-18
+REV2900,Product_A,User_116,4,excellent quality. fantastic.,2023-04-27
+REV2901,Product_E,User_117,5,wonderful experience. fantastic. it's okay.,2024-11-25
+REV2902,Product_B,User_183,2,bad experience. poor quality. it's okay.,2023-04-11
+REV2903,Product_D,User_181,5,fantastic. fantastic.,2024-02-08
+REV2904,Product_A,User_176,4,exceeded expectations. five stars. works as expected.,2023-03-20
+REV2905,Product_D,User_125,2,worst purchase. worst purchase. it's okay.,2024-12-29
+REV2906,Product_E,User_102,2,terrible product. worst purchase.,2024-03-25
+REV2907,Product_A,User_175,4,fantastic. works perfectly.,2023-06-26
+REV2908,Product_C,User_171,2,would not recommend. waste of money.,2023-11-04
+REV2909,Product_E,User_153,4,love this product. amazing features.,2023-05-09
+REV2910,Product_E,User_191,2,would not recommend. difficult to use.,2023-05-14
+REV2911,Product_B,User_189,3,neither good nor bad. amazing features.,2023-11-30
+REV2912,Product_D,User_162,5,highly recommend. wonderful experience.,2024-03-11
+REV2913,Product_D,User_129,2,one star. worst purchase.,2024-07-14
+REV2914,Product_B,User_125,5,five stars. highly recommend. some pros and cons.,2024-10-22
+REV2915,Product_A,User_147,5,excellent quality. highly recommend.,2024-01-15
+REV2916,Product_D,User_139,3,nothing special. works perfectly.,2023-11-18
+REV2917,Product_D,User_105,2,would not recommend. very disappointed. nothing special.,2023-07-11
+REV2918,Product_E,User_150,3,works as expected. exceeded expectations.,2023-03-12
+REV2919,Product_C,User_147,5,exceeded expectations. great value. works as expected.,2024-10-08
+REV2920,Product_E,User_122,2,waste of money. missing features.,2024-11-23
+REV2921,Product_A,User_125,5,fantastic. great value.,2024-02-09
+REV2922,Product_E,User_134,2,customer service was bad. difficult to use.,2024-09-22
+REV2923,Product_D,User_133,4,best purchase ever. best purchase ever. works as expected.,2023-06-18
+REV2924,Product_A,User_111,3,average product. very satisfied.,2024-05-30
+REV2925,Product_D,User_181,1,does not work. poor quality. average product.,2023-07-16
+REV2926,Product_C,User_110,5,amazing features. five stars.,2024-03-22
+REV2927,Product_C,User_152,2,waste of money. would not recommend. nothing special.,2024-06-05
+REV2928,Product_B,User_175,5,very satisfied. excellent quality. decent for the price.,2023-09-10
+REV2929,Product_B,User_193,4,highly recommend. fantastic.,2024-11-09
+REV2930,Product_A,User_125,1,very disappointed. very disappointed.,2024-02-26
+REV2931,Product_B,User_161,4,very satisfied. love this product.,2024-01-13
+REV2932,Product_B,User_171,3,met expectations. customer service was bad.,2023-09-05
+REV2933,Product_C,User_117,1,one star. worst purchase. some pros and cons.,2023-12-18
+REV2934,Product_B,User_131,4,exceeded expectations. easy to use. nothing special.,2023-01-25
+REV2935,Product_A,User_184,5,excellent quality. love this product.,2023-09-15
+REV2936,Product_C,User_150,4,fantastic. fantastic. decent for the price.,2024-02-06
+REV2937,Product_D,User_148,2,poor quality. worst purchase.,2023-05-19
+REV2938,Product_E,User_139,1,would not recommend. worst purchase.,2024-08-23
+REV2939,Product_C,User_157,5,exceeded expectations. very satisfied. could be better.,2023-10-06
+REV2940,Product_E,User_107,2,missing features. waste of money. met expectations.,2024-06-13
+REV2941,Product_C,User_128,5,best purchase ever. fantastic.,2023-09-16
+REV2942,Product_D,User_101,2,one star. poor quality.,2023-04-18
+REV2943,Product_B,User_106,4,best purchase ever. fantastic.,2023-10-09
+REV2944,Product_A,User_131,4,great value. exceeded expectations.,2024-02-01
+REV2945,Product_A,User_152,5,excellent quality. best purchase ever.,2024-01-01
+REV2946,Product_C,User_114,4,love this product. highly recommend. decent for the price.,2024-12-10
+REV2947,Product_E,User_190,5,fantastic. wonderful experience. nothing special.,2024-05-01
+REV2948,Product_B,User_124,5,five stars. best purchase ever.,2023-10-27
+REV2949,Product_D,User_108,1,waste of money. very disappointed.,2024-06-07
+REV2950,Product_C,User_168,4,excellent quality. wonderful experience.,2024-04-26
+REV2951,Product_B,User_177,5,best purchase ever. very satisfied. it's okay.,2023-03-16
+REV2952,Product_E,User_150,1,broke easily. missing features. decent for the price.,2024-08-08
+REV2953,Product_C,User_153,5,best purchase ever. five stars.,2023-11-03
+REV2954,Product_D,User_124,2,one star. poor quality.,2023-08-03
+REV2955,Product_A,User_160,3,average product. customer service was bad.,2023-11-05
+REV2956,Product_B,User_177,1,bad experience. poor quality.,2024-02-29
+REV2957,Product_D,User_168,2,difficult to use. worst purchase. could be better.,2024-05-27
+REV2958,Product_B,User_138,3,it's okay. easy to use.,2023-03-31
+REV2959,Product_A,User_158,4,easy to use. excellent quality.,2023-07-18
+REV2960,Product_C,User_197,3,it's okay. missing features.,2024-12-28
+REV2961,Product_C,User_167,5,five stars. highly recommend.,2024-04-08
+REV2962,Product_B,User_148,1,difficult to use. waste of money.,2024-08-10
+REV2963,Product_B,User_186,4,great value. highly recommend. decent for the price.,2023-09-03
+REV2964,Product_A,User_136,5,works perfectly. wonderful experience. nothing special.,2023-11-29
+REV2965,Product_D,User_151,4,wonderful experience. five stars. decent for the price.,2023-01-19
+REV2966,Product_C,User_133,4,great value. easy to use.,2024-12-06
+REV2967,Product_A,User_176,2,waste of money. worst purchase.,2023-08-19
+REV2968,Product_D,User_150,3,could be better. love this product.,2024-02-09
+REV2969,Product_E,User_148,5,great value. best purchase ever. nothing special.,2023-05-25
+REV2970,Product_C,User_162,5,highly recommend. excellent quality. could be better.,2023-05-27
+REV2971,Product_E,User_142,1,one star. worst purchase.,2024-01-13
+REV2972,Product_A,User_170,1,waste of money. one star.,2023-08-07
+REV2973,Product_D,User_153,4,five stars. great value. average product.,2023-01-25
+REV2974,Product_E,User_118,1,terrible product. terrible product.,2024-01-19
+REV2975,Product_E,User_198,2,does not work. missing features.,2024-07-05
+REV2976,Product_D,User_151,5,wonderful experience. excellent quality.,2024-11-14
+REV2977,Product_E,User_176,3,neither good nor bad. bad experience.,2024-05-11
+REV2978,Product_C,User_182,2,difficult to use. very disappointed. nothing special.,2024-05-18
+REV2979,Product_A,User_126,1,customer service was bad. would not recommend.,2023-09-15
+REV2980,Product_B,User_170,5,easy to use. highly recommend. nothing special.,2023-03-22
+REV2981,Product_E,User_129,1,would not recommend. awful. nothing special.,2023-07-23
+REV2982,Product_E,User_117,3,works as expected. terrible product.,2023-02-26
+REV2983,Product_C,User_122,3,it's okay. five stars.,2023-07-28
+REV2984,Product_D,User_123,1,bad experience. does not work.,2024-11-30
+REV2985,Product_E,User_175,3,it's okay. wonderful experience.,2024-10-21
+REV2986,Product_B,User_146,1,broke easily. customer service was bad. met expectations.,2024-01-14
+REV2987,Product_C,User_191,2,broke easily. difficult to use.,2024-06-13
+REV2988,Product_D,User_171,2,customer service was bad. poor quality.,2024-04-23
+REV2989,Product_D,User_137,2,missing features. broke easily.,2024-05-25
+REV2990,Product_C,User_181,3,nothing special. missing features.,2024-01-24
+REV2991,Product_D,User_165,4,very satisfied. easy to use. met expectations.,2023-08-23
+REV2992,Product_A,User_100,4,amazing features. five stars.,2023-05-15
+REV2993,Product_B,User_141,4,five stars. five stars.,2023-12-24
+REV2994,Product_B,User_178,2,worst purchase. terrible product. some pros and cons.,2023-04-18
+REV2995,Product_D,User_133,3,average product. worst purchase.,2024-12-10
+REV2996,Product_B,User_143,3,met expectations. poor quality.,2023-03-19
+REV2997,Product_C,User_185,3,works as expected. five stars.,2023-03-15
+REV2998,Product_A,User_106,5,fantastic. excellent quality. neither good nor bad.,2023-09-26
+REV2999,Product_D,User_105,1,waste of money. worst purchase. works as expected.,2024-12-23

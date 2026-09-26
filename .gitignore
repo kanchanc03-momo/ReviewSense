@@ -36,3 +36,6 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+/backend/__pycache__/
+/backend/*.sqlite3
+/backend/*.joblib
